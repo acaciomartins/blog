@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021–2021, Acácio Mentoria, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 10 Oct 2021 15:19:16 -0300</lastBuildDate><atom:link href="https://acaciomartins.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 18:36:16 -0300</lastBuildDate><atom:link href="https://acaciomartins.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cursos Gratuitos</title>
       <link>https://acaciomartins.github.io/blog/posts/curos-gratuitos/</link>
-      <pubDate>Sun, 10 Oct 2021 15:19:16 -0300</pubDate>
+      <pubDate>Tue, 05 Oct 2021 18:36:16 -0300</pubDate>
       
       <guid>https://acaciomartins.github.io/blog/posts/curos-gratuitos/</guid>
       <description>DevSecOps  Missao DevOps  Cursos Gratuitos - Português  Katacoda Digital Innovation One Coursera MundoJs Coursera Codecademy URI Online Judge Brasil + Digital edX Estudar Fora Educacao Executiva FGV Udacity Ead Senai Rock University Intelbras Itec MOOC GGTE-Unicamp School of Net  Cursos Pagos - Português  Alura  Inglês  edX MUO Dev FreeCodeCamp Mit Open Courseware  </description>
@@ -20,7 +20,7 @@
     <item>
       <title>Links canais YouTube</title>
       <link>https://acaciomartins.github.io/blog/posts/links-canais-youtube/</link>
-      <pubDate>Sun, 10 Oct 2021 15:19:16 -0300</pubDate>
+      <pubDate>Fri, 20 Aug 2021 15:08:03 -0300</pubDate>
       
       <guid>https://acaciomartins.github.io/blog/posts/links-canais-youtube/</guid>
       <description>Java Introdução a programação Reativa - Pokedéx Reativo #1
@@ -40,6 +40,48 @@ Full Cycle
 
 
 Programador BR</description>
+    </item>
+    
+    <item>
+      <title>Estagiário, Jr, Trainees vs Experiência</title>
+      <link>https://acaciomartins.github.io/blog/posts/estagiario-jr-trainee-experiencia/</link>
+      <pubDate>Mon, 03 May 2021 15:08:03 -0300</pubDate>
+      
+      <guid>https://acaciomartins.github.io/blog/posts/estagiario-jr-trainee-experiencia/</guid>
+      <description>Antes de mais nada gostaria de dizer o que me motivou a escrever esse pequeno artigo.
+Após algumas perguntas feitas há alguns contatos da minha rede, cheguei a conclusão de que um dos vilões, senão o maior vilão e o que mais os dificultam de conseguirem a primeira vaga de emprego como programador seja a EXPERIÊNCIA.
+É fato que as vagas para estagiários, trainees e jrs na sua maioria pedem experiências além do comum e a impressão que passam é que quem as criam não sabem o que fazem e nem o que um programador iniciante faz, mas enfim, discussão para uma outra hora.</description>
+    </item>
+    
+    <item>
+      <title>Foco</title>
+      <link>https://acaciomartins.github.io/blog/posts/foco/</link>
+      <pubDate>Mon, 03 May 2021 15:08:03 -0300</pubDate>
+      
+      <guid>https://acaciomartins.github.io/blog/posts/foco/</guid>
+      <description>Hoje em dia com esse mar de informações, onde cursos são oferecidos a cada segundo, bootcamps sendo promovidos, eventos disso e eventos daquilo, fica fácil o profissional de TI perder seu foco no que realmente precisa ser feito.
+Legal, isso é normal, a maioria das pessoas geralmente perdem o foco, eu mesmo perdi o foco aqui enquanto escrevia essa artigo, mas espera&amp;hellip; não vamos focar no problema de perder o foco e vamos focar na solução, aliás é de foco que estamos falando.</description>
+    </item>
+    
+    <item>
+      <title>No-code - Tendência ou modinha</title>
+      <link>https://acaciomartins.github.io/blog/posts/no-code-tendencia-ou-modinha/</link>
+      <pubDate>Mon, 03 May 2021 15:08:03 -0300</pubDate>
+      
+      <guid>https://acaciomartins.github.io/blog/posts/no-code-tendencia-ou-modinha/</guid>
+      <description>Criei uma enquete justamente com esse título e primeiramente agradeço as pessoas que responderam e isso me incentivou a escrever esse pequeno artigo.
+Percebi que as opiniões estão divididas porém Tendência está em destaque.
+Antes de mais nada quero dizer que tudo que eu escrever aqui é MINHA opinião, que respeito as opiniões e que também posso mudar a minha. Aprendi a analisar conteúdos com outros olhos e isso tem me libertado&amp;hellip; mas sem mimi vamos ao artigo.</description>
+    </item>
+    
+    <item>
+      <title>Os 5 benefícios da mentoria para profissionais de TI</title>
+      <link>https://acaciomartins.github.io/blog/posts/5-beneficios-mentoria-para-profissionais-ti/</link>
+      <pubDate>Wed, 31 Mar 2021 15:08:03 -0300</pubDate>
+      
+      <guid>https://acaciomartins.github.io/blog/posts/5-beneficios-mentoria-para-profissionais-ti/</guid>
+      <description>1 - Retenção de conhecimento Diferente de cursos, que o foco é exclusivo em um tema em especifico, na mentoria, através do conhecimento e vivencia do mentor, o mentorado é orientado a quais conhecimentos ele deve adquirir afim que ele mesmo seja responsável pelos seus conhecimentos, mudança e evolução.
+2 - Aumento da rede de contatos Com uma carga maior de conhecimento e um network maior, o mentorado amplia sua rede de contatos e consegue encurtar seu caminho na carreira.</description>
     </item>
     
   </channel>

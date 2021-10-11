@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>foco on &lt;Dev_Blog&gt;</title>
+    <link>https://acaciomartins.github.io/blog/tags/foco/</link>
+    <description>Recent content in foco on &lt;Dev_Blog&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021–2021, Acácio Mentoria, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 03 May 2021 15:08:03 -0300</lastBuildDate><atom:link href="https://acaciomartins.github.io/blog/tags/foco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foco</title>
+      <link>https://acaciomartins.github.io/blog/posts/foco/</link>
+      <pubDate>Mon, 03 May 2021 15:08:03 -0300</pubDate>
+      
+      <guid>https://acaciomartins.github.io/blog/posts/foco/</guid>
+      <description>Hoje em dia com esse mar de informações, onde cursos são oferecidos a cada segundo, bootcamps sendo promovidos, eventos disso e eventos daquilo, fica fácil o profissional de TI perder seu foco no que realmente precisa ser feito.
+Legal, isso é normal, a maioria das pessoas geralmente perdem o foco, eu mesmo perdi o foco aqui enquanto escrevia essa artigo, mas espera&amp;hellip; não vamos focar no problema de perder o foco e vamos focar na solução, aliás é de foco que estamos falando.</description>
+    </item>
+    
+  </channel>
+</rss>

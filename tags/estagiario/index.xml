@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estagiario on &lt;Dev_Blog&gt;</title>
+    <link>https://acaciomartins.github.io/blog/tags/estagiario/</link>
+    <description>Recent content in estagiario on &lt;Dev_Blog&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021–2021, Acácio Mentoria, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 03 May 2021 15:08:03 -0300</lastBuildDate><atom:link href="https://acaciomartins.github.io/blog/tags/estagiario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estagiário, Jr, Trainees vs Experiência</title>
+      <link>https://acaciomartins.github.io/blog/posts/estagiario-jr-trainee-experiencia/</link>
+      <pubDate>Mon, 03 May 2021 15:08:03 -0300</pubDate>
+      
+      <guid>https://acaciomartins.github.io/blog/posts/estagiario-jr-trainee-experiencia/</guid>
+      <description>Antes de mais nada gostaria de dizer o que me motivou a escrever esse pequeno artigo.
+Após algumas perguntas feitas há alguns contatos da minha rede, cheguei a conclusão de que um dos vilões, senão o maior vilão e o que mais os dificultam de conseguirem a primeira vaga de emprego como programador seja a EXPERIÊNCIA.
+É fato que as vagas para estagiários, trainees e jrs na sua maioria pedem experiências além do comum e a impressão que passam é que quem as criam não sabem o que fazem e nem o que um programador iniciante faz, mas enfim, discussão para uma outra hora.</description>
+    </item>
+    
+  </channel>
+</rss>
